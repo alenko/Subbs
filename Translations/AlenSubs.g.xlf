@@ -103,15 +103,15 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table CSD Subscription - Field Name - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3730147195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3350134868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Subscriptions</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Customer Sucscriptions - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Customer Subscriptions - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3730147195 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Subscription</source>
+        <trans-unit id="Page 3350134868 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscriptions</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Customer Sucscriptions - Control GroupName - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CSD Customer Subscriptions - Control GroupName - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 100692509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Subscription</source>
@@ -129,7 +129,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page CSD Subscription Factbox - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3939412423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Subscription List</source>
+          <source>Subscription list</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page CSD Subscription List - Property Caption</note>
         </trans-unit>
@@ -137,6 +137,21 @@
           <source>General</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page CSD Subscription List - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3446370158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Subscription Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Create Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3446370158 - ReportDataItem 3183940230 - Method 3715240 - NamedType 1813255639" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total No. of Invoices created %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 is No. of invoices</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Create Invoices - ReportDataItem CustSubscription - Method OnPostDataItem - NamedType InvCounterTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 3446370158 - ReportDataItem 3183940230 - Method 72583909 - NamedType 3175469754" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Invoices for all active subscriptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Create Invoices - ReportDataItem CustSubscription - Method OnPreDataItem - NamedType CreateWarningTxt</note>
         </trans-unit>
         <trans-unit id="PageExtension 208925704 - Action 2332345844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Subscription</source>

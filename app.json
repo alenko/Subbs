@@ -1,8 +1,8 @@
 {
   "id": "41acb174-8289-44d3-8cf6-cc0482af28a1",
-  "name": "Alen",
+  "name": "AlenSubs",
   "publisher": "AlenDaManSub",
-  "version": "21.0.0.0",
+  "version": "21.0.0.2",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -27,6 +27,7 @@
   },
   "runtime": "10.0",
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith",
+    "TranslationFile"
   ]
 }
